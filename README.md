@@ -2,11 +2,13 @@
 
 OffloadMemory resource on-board training content 
 
-# Day 1:(Bootstrap)
+# Day 1: Bootstrap
 
 Getting familiar with Bootstrap CSS framework, which eventually help us to build websites during development.
 
 * Bootstrap - http://getbootstrap.com/
+* Learning materials
+  - W3Schools: https://www.w3schools.com/bootstrap/default.asp
 
 ## Tasks:-
 
@@ -25,3 +27,6 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 13. How to create buttons?
 14. How to create glypicons?
 15. How to create modals?
+
+# Day 2: 
+
