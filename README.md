@@ -30,5 +30,24 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 
 # Day 2: JavaScript
 
+1. Quering DOM
+2. What is document?
+3. What is the difference between id & class?
+4. Assigning events.
+5. Naming Convention in Javascript.
+6. Making use of AJAX calls.
+7. What is Callback function?
+   >>> Event loop
+8. http status code.
 
+## Tasks
 
+1. Create a gallery.json
+2. How to do dynamic table.
+3. How to create list of employees
+
+## Tools
+
+1. Visual Studio Code - Code Editor
+2. Spring Tool Suite - Java IDE
+3. Postman - REST Client
