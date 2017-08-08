@@ -30,9 +30,9 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 
 # Day 2: JavaScript, Tools and RESTFul Services
 
-# Topics Covered
+## Topics Covered
 
-## JavaScript
+### JavaScript
 
 1. Quering DOM
 2. What is document?
@@ -43,13 +43,13 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 7. What is Callback function?
 8. HTTP status codes. 404
 
-## Tools
+### Tools
 
 1. Visual Studio Code - Code Editor
 2. Spring Tool Suite - Java IDE
 3. Postman - REST Client
 
-## RESTFul Services
+### RESTFul Services
 
 1. What are verbs?
 2. What is query params?
