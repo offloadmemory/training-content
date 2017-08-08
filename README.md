@@ -10,6 +10,8 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 * Learning materials
   - W3Schools: https://www.w3schools.com/bootstrap/default.asp
 
+## Topics Covered:-
+
 ## Tasks:-
 
 1. How to create navigation bar?
@@ -30,7 +32,7 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 
 # Day 2: JavaScript, Tools and RESTFul Services
 
-## Topics Covered
+## Topics Covered:-
 
 ### JavaScript
 
