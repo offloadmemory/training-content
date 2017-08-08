@@ -28,5 +28,7 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 14. How to create glypicons?
 15. How to create modals?
 
-# Day 2: 
+# Day 2: JavaScript
+
+
 
