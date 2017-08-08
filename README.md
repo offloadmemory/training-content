@@ -28,7 +28,11 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 14. How to create glypicons?
 15. How to create modals?
 
-# Day 2: JavaScript
+# Day 2: JavaScript, Tools and RESTFul Services
+
+# Topics Covered
+
+## JavaScript
 
 1. Quering DOM
 2. What is document?
@@ -37,17 +41,24 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 5. Naming Convention in Javascript.
 6. Making use of AJAX calls.
 7. What is Callback function?
-   >>> Event loop
-8. http status code.
-
-## Tasks
-
-1. Create a gallery.json
-2. How to do dynamic table.
-3. How to create list of employees
+8. HTTP status codes. 404
 
 ## Tools
 
 1. Visual Studio Code - Code Editor
 2. Spring Tool Suite - Java IDE
 3. Postman - REST Client
+
+## RESTFul Services
+
+1. What are verbs?
+2. What is query params?
+3. What is path params?
+4. What is payload or body payload?
+5. What is URL / resource URL / webservice URL?
+
+## Tasks:-
+
+1. Create a gallery.json
+2. How to do dynamic table.
+3. How to create list of employees
