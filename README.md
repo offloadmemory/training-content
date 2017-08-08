@@ -2,7 +2,7 @@
 
 OffloadMemory resource on-board training content 
 
-# Day 1:
+# Day 1:(Bootstrap)
 
 1. How to create navigation bar?
 2. What is container and fluid container?
