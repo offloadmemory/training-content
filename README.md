@@ -4,6 +4,12 @@ OffloadMemory resource on-board training content
 
 # Day 1:(Bootstrap)
 
+Getting familiar with Bootstrap CSS framework, which eventually help us to build websites during development.
+
+* Bootstrap - http://getbootstrap.com/
+
+## Tasks:-
+
 1. How to create navigation bar?
 2. What is container and fluid container?
 3. What is 12 column grid layout and offset layout?
