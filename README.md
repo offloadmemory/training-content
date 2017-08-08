@@ -43,7 +43,7 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 5. Naming Convention in Javascript.
 6. Making use of AJAX calls.
 7. What is Callback function?
-8. HTTP status codes. 404
+8. HTTP status codes (200,404,500)
 
 ### Tools
 
@@ -61,6 +61,9 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 
 ## Tasks:-
 
-1. Create a gallery.json
-2. How to do dynamic table.
-3. How to create list of employees
+1. Building Gallery
+   - Create a MOCK Gallery JSON which holds list of images. Now get the gallery.json by making the AJAX call and upon success manipulate DOM for the given gallery details and display the result in the browser.
+   
+2. Building Student Market Management
+   
+3. Building Employees List
