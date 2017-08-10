@@ -2,7 +2,7 @@
 
 OffloadMemory resource on-board training content 
 
-# Day 1: Bootstrap
+# Day 1: Programming Overiew, Client & Server Side Architecture and Bootstrap 
 
 Getting familiar with Bootstrap CSS framework, which eventually help us to build websites during development.
 
@@ -11,6 +11,36 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
   - W3Schools: https://www.w3schools.com/bootstrap/default.asp
 
 ## Topics Covered:-
+
+### Client-side Scripting Languages & Frameworks
+
+1. Javascript
+   * AngujarJS
+   * EXTJS
+   * BackboneJS
+   * EmberJS
+
+### Server-side Scripting Languages & Frameworks
+
+1. Java - Spring
+2. Ruby - Rails
+3. Python - Django
+4. PHP - Zend, CakePHP
+5. NodeJS - ExpressJS
+
+### Data Transfer Notation
+
+1. JSON
+2. XML
+
+### Bootstrap
+
+1. Basics of HTML & CSS
+
+### Architecture
+
+1. MEAN Stack
+2. Velotech Solutions Stack
 
 ## Tasks:-
 
@@ -67,3 +97,15 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 2. Building Student Market Management
    
 3. Building Employees List
+
+# Day 3: Github - Version Control Repository
+
+## Topics Covered:-
+
+1. What is GitHub?
+2. Create GitHub use account
+3. Create a Repository
+4. Create a Branch
+5. Make and Commit Changes
+6. Open a Pull Request
+7. Merge your Pull Request
