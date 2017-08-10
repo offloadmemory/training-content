@@ -108,4 +108,12 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 4. Create a Branch
 5. Make and Commit Changes
 6. Open a Pull Request
-7. Merge your Pull Request
+7. Merge a Pull Request
+8. Hosting with Github Pages
+
+## Tasks:-
+
+1. Create Repository - "try-git"
+2. Hosting HTML Pages in GitHub Repository
+3. Create Personal Website
+4. Create Project Website
