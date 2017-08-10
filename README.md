@@ -4,12 +4,6 @@ OffloadMemory resource on-board training content
 
 # Day 1: Programming Overiew, Client & Server Side Architecture and Bootstrap 
 
-Getting familiar with Bootstrap CSS framework, which eventually help us to build websites during development.
-
-* Bootstrap - http://getbootstrap.com/
-* Learning materials
-  - W3Schools: https://www.w3schools.com/bootstrap/default.asp
-
 ## Topics Covered:-
 
 ### Client-side Scripting Languages & Frameworks
@@ -36,6 +30,8 @@ Getting familiar with Bootstrap CSS framework, which eventually help us to build
 ### Bootstrap
 
 1. Basics of HTML & CSS
+   * Bootstrap - http://getbootstrap.com/
+   * Learning materials - W3Schools: https://www.w3schools.com/bootstrap/default.asp
 
 ### Architecture
 
