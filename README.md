@@ -2,7 +2,7 @@
 
 OffloadMemory resource on-board training content 
 
-# Day 1: Programming Overiew, Client & Server Side Architecture and Bootstrap 
+# Day 1: Programming Overview, Client & Server Side Architecture and Bootstrap 
 
 ## Topics Covered:-
 
